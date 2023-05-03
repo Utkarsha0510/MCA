@@ -1,0 +1,28 @@
+
+
+PHP Programs
+1) Display grade based on given criteria
+2) Any 5 strings functions
+
+3) Demonstration of constructor and destructor
+4) Demonstration of inheritance
+5) Check given number is Armstrong or not by using Post Method
+6) Display Fibonacci series by using Post Method 
+7) Calculate Factorial of given number by using Post Method 
+8) Binary to Decimal conversion by using Get method (without bindec())
+
+
+
+
+
+
+Android Programs
+1) Write a android program to perform the addition of two number.
+2) Write a android program which show "Welcome to IMR" with Yellow Color.
+3) Write a android program to demonstrate the scroll view
+4) Write a android program to Create sample application with login module.(Check username and password) On successful login, 
+Change TextView “Login Successful”. And on failing login, alert user using Toast “Login fail”.
+5) Write a android program to Create login application where you will have to validate username and passwords Till the username 
+and password is not validated, login button should remain disabled.
+
+
